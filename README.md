@@ -20,3 +20,9 @@ A simple and user-friendly **BMI Calculator** web application that helps you cal
 - Weight: `60 kg`
 - Height: `170 cm`
 - Calculated BMI: `20.8` (Normal weight)
+
+## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+## Contact
+For feedback or inquiries, feel free to reach out via [pathanin.kht@gmail.com](pathanin.kht@gmail.com).
