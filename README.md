@@ -18,9 +18,11 @@ A simple and user-friendly **BMI Calculator** web application that helps you cal
 4. The result will display your BMI value and its corresponding health category.
 
 ## Example
-- Weight: `60 kg`
-- Height: `170 cm`
-- Calculated BMI: `20.8` (Normal weight)
+- Weight: `46 kg`
+- Height: `155 cm`
+- Calculated BMI: `19.1` (Normal weight)
+  
+![Example](https://github.com/pathanin-kht/BMI-Calculator-Web/blob/c811d12c3e928372cddcb04aaf84f685bea14054/Example.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
