@@ -10,7 +10,7 @@ body {
 }
 .container {
     width: 90%;
-    max-width: 340px;
+    max-width: 400px;
     background: rgba(255, 255, 255, 0.95);
     padding: 2rem;
     border-radius: 24px;
@@ -48,6 +48,12 @@ h1 {
 }
 .input-group {
     margin-bottom: 1.2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-end;
+}
+.input-field {
+    flex: 1;
 }
 label {
     display: block;
@@ -56,7 +62,7 @@ label {
     color: #4b5563;
     font-weight: 500;
 }
-input {
+input, select {
     width: 100%;
     padding: 0.8rem;
     border: 2px solid #e5e7eb;
@@ -66,7 +72,7 @@ input {
     box-sizing: border-box;
     font-family: 'Noto Sans Thai', sans-serif;
 }
-input:focus {
+input:focus, select:focus {
     outline: none;
     border-color: #2563eb;
     box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
@@ -74,8 +80,13 @@ input:focus {
 input::placeholder {
     color: #9ca3af;
 }
+.button-group {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
 button {
-    width: 100%;
+    flex: 1;
     padding: 0.8rem;
     background: linear-gradient(135deg, #2563eb, #1d4ed8);
     color: white;
@@ -88,6 +99,9 @@ button {
     font-weight: 500;
     box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
 }
+button.secondary {
+    background: linear-gradient(135deg, #9ca3af, #6b7280);
+}
 button:hover {
     transform: translateY(-1px);
     box-shadow: 0 4px 6px rgba(37, 99, 235, 0.3);
@@ -96,7 +110,7 @@ button:active {
     transform: translateY(0);
 }
 #result {
-    margin-top: 1.5rem;
+    margin: 1.5rem 0;
     text-align: center;
     padding: 1rem;
     border-radius: 12px;
