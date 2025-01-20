@@ -22,7 +22,7 @@ A simple and user-friendly **BMI Calculator** web application that helps you cal
 - Height: `155 cm`
 - Calculated BMI: `19.1` (Normal weight)
   
-![Example](https://github.com/pathanin-kht/BMI-Calculator-Web/blob/c811d12c3e928372cddcb04aaf84f685bea14054/Example.png)
+![Example](Example.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
