@@ -5,8 +5,8 @@ A simple and user-friendly **BMI Calculator** web application that helps you cal
 
 ## Features
 - Calculates BMI based on weight and height.
-- Supports both kilograms (kg) and pounds (lb) for weight. (Update 21/1/2568)
-- Supports both centimeters (cm) and inches (in) for height.(Update 21/1/2568)
+- Supports both kilograms (kg) and pounds (lb) for weight. 
+- Supports both centimeters (cm) and inches (in) for height.
 - Categorizes the BMI result into the following ranges:
   - Underweight: BMI < 18.5
   - Normal weight: BMI 18.5 - 24.9
