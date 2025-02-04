@@ -21,13 +21,6 @@ A simple and user-friendly **BMI Calculator** web application that helps you cal
 5. Click the "Calculate BMI" button.
 6. The result will display your BMI value and its corresponding health category.
 
-## Example
-- Weight: `46 kg`
-- Height: `155 cm`
-- Calculated BMI: `19.1` (Normal weight)
-  
-![Example](Example.png)
-
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
