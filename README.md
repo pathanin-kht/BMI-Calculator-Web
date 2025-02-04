@@ -1,4 +1,4 @@
-# [BMI Calculator](https://pathanin-kht.github.io/BMI-Calculator-Web/)
+# [BMI Calculator v1.0.0](https://pathanin-kht.github.io/BMI-Calculator-Web/)
 
 ## Overviews
 A simple and user-friendly **BMI Calculator** web application that helps you calculate your Body Mass Index (BMI) based on weight and height. The application provides real-time results and categorizes your BMI into different health ranges.
